@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="Page-1" id="qxbehMAto2ABZ80HSkwo">
+    <mxGraphModel dx="13360" dy="10210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="610" x="1440" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="General&amp;nbsp;&lt;div&gt;Info.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1470" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Geo Info" vertex="1">
+          <mxGeometry height="60" width="120" x="1610" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Crop Info" vertex="1">
+          <mxGeometry height="60" width="120" x="1750" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Crop monitoring info" vertex="1">
+          <mxGeometry height="60" width="120" x="1470" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Machinary" vertex="1">
+          <mxGeometry height="60" width="120" x="1610" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forestry" vertex="1">
+          <mxGeometry height="60" width="120" x="1750" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fertilizer" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spraying/ Weeding" vertex="1">
+          <mxGeometry height="60" width="120" x="1900" y="915" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="A) General Info" vertex="1">
+          <mxGeometry height="30" width="400" x="130" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: Executive + operational overview, alerts, daily approvals, KPIs" vertex="1">
+          <mxGeometry height="60" width="900" x="130" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Dashboard" vertex="1">
+          <mxGeometry height="50" width="250" x="130" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Today’s operations summary&#xa;(work tickets, labour deployed, machines active)" vertex="1">
+          <mxGeometry height="60" width="350" x="410" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Production&#xa;(plucked kg, latex kg, harvest outputs)" vertex="1">
+          <mxGeometry height="60" width="300" x="780" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cost snapshot&#xa;(job-wise, field-wise)" vertex="1">
+          <mxGeometry height="60" width="350" x="410" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Alerts &amp; Exceptions" vertex="1">
+          <mxGeometry height="50" width="250" x="130" y="1500" as="geometry" />
+        </mxCell>
+        <mxCell id="18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Low stock&#xa;(fertilizer/chemicals/fuel/spares)" vertex="1">
+          <mxGeometry height="60" width="300" x="410" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Overdue maintenance" vertex="1">
+          <mxGeometry height="60" width="250" x="730" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Weather risk alerts&#xa;(heavy rain, high wind)" vertex="1">
+          <mxGeometry height="60" width="300" x="410" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Compliance incidents&#xa;(spray safety, buffer zones)" vertex="1">
+          <mxGeometry height="60" width="300" x="730" y="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Approvals" vertex="1">
+          <mxGeometry height="50" width="250" x="130" y="1680" as="geometry" />
+        </mxCell>
+        <mxCell id="23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purchase requests" vertex="1">
+          <mxGeometry height="50" width="250" x="410" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Work plans&#xa;(weekly/monthly)" vertex="1">
+          <mxGeometry height="60" width="250" x="680" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Overtime / extra labour" vertex="1">
+          <mxGeometry height="50" width="250" x="950" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chemical issues &amp; spray approvals" vertex="1">
+          <mxGeometry height="50" width="350" x="410" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Reports" vertex="1">
+          <mxGeometry height="50" width="250" x="130" y="1820" as="geometry" />
+        </mxCell>
+        <mxCell id="28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate performance" vertex="1">
+          <mxGeometry height="50" width="250" x="410" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Field productivity ranking" vertex="1">
+          <mxGeometry height="50" width="250" x="680" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Labour efficiency" vertex="1">
+          <mxGeometry height="50" width="250" x="950" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="350" x="130" y="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors / GM&#xa;View-only + approvals + reports" vertex="1">
+          <mxGeometry height="70" width="250" x="510" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager&#xa;View + approve plans, budgets" vertex="1">
+          <mxGeometry height="70" width="250" x="780" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Superintendents&#xa;Create + submit daily ops" vertex="1">
+          <mxGeometry height="70" width="250" x="1050" y="1900" as="geometry" />
+        </mxCell>
+        <mxCell id="35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Storekeepers / Operators / Labour&#xa;Minimal view (tasks only)" vertex="1">
+          <mxGeometry height="70" width="400" x="510" y="1980" as="geometry" />
+        </mxCell>
+        <mxCell id="36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1020" width="1330" x="54" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="37" edge="1" parent="1" source="3" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" target="36" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="719" y="840" />
+            </Array>
+            <mxPoint x="1460" y="830" as="sourcePoint" />
+            <mxPoint x="450" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="38" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="B) Geo Info" vertex="1">
+          <mxGeometry height="30" width="400" x="1560" y="1205" as="geometry" />
+        </mxCell>
+        <mxCell id="39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: GIS-based plantation map + location-based decisions" vertex="1">
+          <mxGeometry height="60" width="900" x="1560" y="1245" as="geometry" />
+        </mxCell>
+        <mxCell id="40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Estate Map" vertex="1">
+          <mxGeometry height="50" width="250" x="1560" y="1335" as="geometry" />
+        </mxCell>
+        <mxCell id="41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Field boundaries, area, slope, elevation" vertex="1">
+          <mxGeometry height="60" width="320" x="1840" y="1335" as="geometry" />
+        </mxCell>
+        <mxCell id="42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Roads/paths, drains, water bodies" vertex="1">
+          <mxGeometry height="60" width="320" x="2180" y="1335" as="geometry" />
+        </mxCell>
+        <mxCell id="43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buildings (factories, stores, labour lines)" vertex="1">
+          <mxGeometry height="60" width="380" x="1840" y="1415" as="geometry" />
+        </mxCell>
+        <mxCell id="44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Layer Control" vertex="1">
+          <mxGeometry height="50" width="250" x="1560" y="1515" as="geometry" />
+        </mxCell>
+        <mxCell id="45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Soil type / fertility zones" vertex="1">
+          <mxGeometry height="60" width="280" x="1840" y="1505" as="geometry" />
+        </mxCell>
+        <mxCell id="46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Shade trees / forestry zones" vertex="1">
+          <mxGeometry height="60" width="300" x="2140" y="1505" as="geometry" />
+        </mxCell>
+        <mxCell id="47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Restricted/protected areas (riparian buffers)" vertex="1">
+          <mxGeometry height="60" width="420" x="1840" y="1585" as="geometry" />
+        </mxCell>
+        <mxCell id="48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Field Profile (click on map)" vertex="1">
+          <mxGeometry height="50" width="250" x="1560" y="1695" as="geometry" />
+        </mxCell>
+        <mxCell id="49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Crop &amp; age" vertex="1">
+          <mxGeometry height="50" width="200" x="1840" y="1685" as="geometry" />
+        </mxCell>
+        <mxCell id="50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input history (fertilizer, spray)" vertex="1">
+          <mxGeometry height="50" width="280" x="2060" y="1685" as="geometry" />
+        </mxCell>
+        <mxCell id="51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Yield history" vertex="1">
+          <mxGeometry height="50" width="200" x="2360" y="1685" as="geometry" />
+        </mxCell>
+        <mxCell id="52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Issues (disease, erosion, weeds)" vertex="1">
+          <mxGeometry height="60" width="340" x="1840" y="1745" as="geometry" />
+        </mxCell>
+        <mxCell id="53" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Route &amp; Task Planning" vertex="1">
+          <mxGeometry height="50" width="250" x="1560" y="1855" as="geometry" />
+        </mxCell>
+        <mxCell id="54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Spray routes" vertex="1">
+          <mxGeometry height="50" width="200" x="1840" y="1845" as="geometry" />
+        </mxCell>
+        <mxCell id="55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Harvest/plucking route grouping" vertex="1">
+          <mxGeometry height="50" width="320" x="2060" y="1845" as="geometry" />
+        </mxCell>
+        <mxCell id="56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Machinery access suitability" vertex="1">
+          <mxGeometry height="50" width="260" x="2400" y="1845" as="geometry" />
+        </mxCell>
+        <mxCell id="57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="350" x="1560" y="1945" as="geometry" />
+        </mxCell>
+        <mxCell id="58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors/GM&#xa;View + analytics layers" vertex="1">
+          <mxGeometry height="70" width="260" x="1940" y="1935" as="geometry" />
+        </mxCell>
+        <mxCell id="59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager/Superintendent&#xa;View + maintain boundaries + field notes + assign tasks by field" vertex="1">
+          <mxGeometry height="90" width="420" x="2220" y="1925" as="geometry" />
+        </mxCell>
+        <mxCell id="60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Field Officers/Survey/GIS Officer&#xa;Full edit rights (boundaries, layers)" vertex="1">
+          <mxGeometry height="70" width="330" x="1940" y="2025" as="geometry" />
+        </mxCell>
+        <mxCell id="61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Labour/Drivers&#xa;View-only routes/tasks (mobile)" vertex="1">
+          <mxGeometry height="70" width="300" x="2290" y="2025" as="geometry" />
+        </mxCell>
+        <mxCell id="62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1020" width="1330" x="1450" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="63" edge="1" parent="1" source="4" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.538;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" target="62" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1670" y="650" />
+              <mxPoint x="2166" y="650" />
+            </Array>
+            <mxPoint x="2080" y="1210" as="sourcePoint" />
+            <mxPoint x="2130" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="64" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="Crop Info" vertex="1">
+          <mxGeometry height="30" width="400" x="3136" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: Crop lifecycle and agronomy records (the “agronomy master module”)." vertex="1">
+          <mxGeometry height="60" width="950" x="3136" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Crop Registry" vertex="1">
+          <mxGeometry height="50" width="250" x="3136" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Crop type, clone/variety, planting date, age class" vertex="1">
+          <mxGeometry height="60" width="360" x="3416" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Plant population, infill, replant history" vertex="1">
+          <mxGeometry height="60" width="320" x="3796" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Crop Calendar" vertex="1">
+          <mxGeometry height="50" width="250" x="3136" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Planned operations by month&#xa;(fertilize, prune, weed, spray)" vertex="1">
+          <mxGeometry height="70" width="420" x="3416" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Yield &amp; Quality" vertex="1">
+          <mxGeometry height="50" width="250" x="3136" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Field-wise yield capture" vertex="1">
+          <mxGeometry height="50" width="260" x="3416" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Quality metrics&#xa;(tea leaf standard, latex DRC, fruit bunch grading)" vertex="1">
+          <mxGeometry height="70" width="420" x="3696" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Field Activities Log" vertex="1">
+          <mxGeometry height="50" width="250" x="3136" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pruning, infilling, mulching, shade management" vertex="1">
+          <mxGeometry height="60" width="420" x="3416" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Pest/Disease" vertex="1">
+          <mxGeometry height="50" width="250" x="3136" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Observations, severity, actions taken" vertex="1">
+          <mxGeometry height="60" width="360" x="3416" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="78" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="350" x="3136" y="1630" as="geometry" />
+        </mxCell>
+        <mxCell id="79" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors/GM&#xa;View KPI dashboards" vertex="1">
+          <mxGeometry height="70" width="260" x="3516" y="1620" as="geometry" />
+        </mxCell>
+        <mxCell id="80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager&#xa;View + approve programs + review outcomes" vertex="1">
+          <mxGeometry height="90" width="360" x="3796" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Superintendents/Field Officers&#xa;Create/update crop records, logs, observations" vertex="1">
+          <mxGeometry height="80" width="420" x="3516" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Labour&#xa;Only assigned tasks + completion confirmation (mobile)" vertex="1">
+          <mxGeometry height="80" width="330" x="3956" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1020" width="1330" x="3030" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="84" edge="1" parent="1" source="5" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="83" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="435" />
+              <mxPoint x="2600" y="435" />
+            </Array>
+            <mxPoint x="2510" y="570" as="sourcePoint" />
+            <mxPoint x="2860" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="85" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="Fertilizer" vertex="1">
+          <mxGeometry height="30" width="400" x="3086" y="-1520" as="geometry" />
+        </mxCell>
+        <mxCell id="86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: Plan, issue, apply, and track fertilizer by field and cost." vertex="1">
+          <mxGeometry height="60" width="950" x="3086" y="-1480" as="geometry" />
+        </mxCell>
+        <mxCell id="87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Fertilizer Program" vertex="1">
+          <mxGeometry height="50" width="250" x="3086" y="-1390" as="geometry" />
+        </mxCell>
+        <mxCell id="88" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Recommendations per field&#xa;(based on soil test / zone / crop age)" vertex="1">
+          <mxGeometry height="70" width="420" x="3366" y="-1400" as="geometry" />
+        </mxCell>
+        <mxCell id="89" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Schedule (round 1 / 2 / 3)" vertex="1">
+          <mxGeometry height="60" width="260" x="3806" y="-1390" as="geometry" />
+        </mxCell>
+        <mxCell id="90" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Requisitions &amp; Stock" vertex="1">
+          <mxGeometry height="50" width="250" x="3086" y="-1280" as="geometry" />
+        </mxCell>
+        <mxCell id="91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Request from central store / supplier" vertex="1">
+          <mxGeometry height="60" width="320" x="3366" y="-1290" as="geometry" />
+        </mxCell>
+        <mxCell id="92" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Issue to division store" vertex="1">
+          <mxGeometry height="60" width="260" x="3706" y="-1290" as="geometry" />
+        </mxCell>
+        <mxCell id="93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Issue to field (job ticket)" vertex="1">
+          <mxGeometry height="60" width="260" x="3986" y="-1290" as="geometry" />
+        </mxCell>
+        <mxCell id="94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Application Capture" vertex="1">
+          <mxGeometry height="50" width="250" x="3086" y="-1160" as="geometry" />
+        </mxCell>
+        <mxCell id="95" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Date, field, product, rate (kg/ha), labour, supervisor" vertex="1">
+          <mxGeometry height="60" width="480" x="3366" y="-1170" as="geometry" />
+        </mxCell>
+        <mxCell id="96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Weather constraints check" vertex="1">
+          <mxGeometry height="60" width="280" x="3866" y="-1170" as="geometry" />
+        </mxCell>
+        <mxCell id="97" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Costing &amp; Audit" vertex="1">
+          <mxGeometry height="50" width="250" x="3086" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Field-wise fertilizer cost" vertex="1">
+          <mxGeometry height="60" width="260" x="3366" y="-1050" as="geometry" />
+        </mxCell>
+        <mxCell id="99" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Variance vs plan" vertex="1">
+          <mxGeometry height="60" width="220" x="3646" y="-1050" as="geometry" />
+        </mxCell>
+        <mxCell id="100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Batch/lot traceability" vertex="1">
+          <mxGeometry height="60" width="260" x="3886" y="-1050" as="geometry" />
+        </mxCell>
+        <mxCell id="101" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="350" x="3086" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="102" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors/GM&#xa;View costs + approvals (budgets/large requests)" vertex="1">
+          <mxGeometry height="80" width="360" x="3466" y="-930" as="geometry" />
+        </mxCell>
+        <mxCell id="103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager&#xa;Approve programs and requisitions" vertex="1">
+          <mxGeometry height="80" width="320" x="3846" y="-930" as="geometry" />
+        </mxCell>
+        <mxCell id="104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Superintendent/Agronomy Officer&#xa;Create program + schedule + verify completion" vertex="1">
+          <mxGeometry height="80" width="420" x="3466" y="-830" as="geometry" />
+        </mxCell>
+        <mxCell id="105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Storekeeper&#xa;Issue/receive stock + batch tracking" vertex="1">
+          <mxGeometry height="80" width="320" x="3906" y="-830" as="geometry" />
+        </mxCell>
+        <mxCell id="106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Labour&#xa;Record/confirm application (with supervisor validation)" vertex="1">
+          <mxGeometry height="80" width="420" x="3466" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1020" width="1330" x="2990" y="-1600" as="geometry" />
+        </mxCell>
+        <mxCell id="108" edge="1" parent="1" source="9" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="107" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1960" y="-420" />
+              <mxPoint x="1960" y="-680" />
+              <mxPoint x="1950" y="-830" />
+            </Array>
+            <mxPoint x="3010" y="1050" as="sourcePoint" />
+            <mxPoint x="3060" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="109" parent="1" style="text;whiteSpace=wrap;html=1;" value="&#xa;  &#xa;    &#xa;      &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;      &#xa;    &#xa;  &#xa;&#xa;\" vertex="1">
+          <mxGeometry height="1410" width="40" x="1120" y="-810" as="geometry" />
+        </mxCell>
+        <mxCell id="110" parent="1" style="text;whiteSpace=wrap;html=1;" value="&#xa;  &#xa;    &#xa;      &#xa;        &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;        &#xa;          &#xa;        &#xa;&#xa;      &#xa;    &#xa;  &#xa;&#xa;\" vertex="1">
+          <mxGeometry height="1410" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="111" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="Crop Monitoring Info" vertex="1">
+          <mxGeometry height="30" width="500" x="1630" y="-1980" as="geometry" />
+        </mxCell>
+        <mxCell id="112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: Scouting + sensors + inspection + recommendations (early warning)." vertex="1">
+          <mxGeometry height="60" width="980" x="1630" y="-1940" as="geometry" />
+        </mxCell>
+        <mxCell id="113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Scouting &amp; Inspection" vertex="1">
+          <mxGeometry height="50" width="260" x="1630" y="-1850" as="geometry" />
+        </mxCell>
+        <mxCell id="114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Weed pressure, pest/disease incidence, nutrient deficiency" vertex="1">
+          <mxGeometry height="60" width="420" x="1920" y="-1860" as="geometry" />
+        </mxCell>
+        <mxCell id="115" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Photo capture + severity rating" vertex="1">
+          <mxGeometry height="60" width="280" x="2360" y="-1860" as="geometry" />
+        </mxCell>
+        <mxCell id="116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="NDVI / Drone / Satellite (optional)" vertex="1">
+          <mxGeometry height="50" width="320" x="1630" y="-1750" as="geometry" />
+        </mxCell>
+        <mxCell id="117" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Health index map by field" vertex="1">
+          <mxGeometry height="60" width="300" x="1970" y="-1760" as="geometry" />
+        </mxCell>
+        <mxCell id="118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Soil &amp; Leaf Tests" vertex="1">
+          <mxGeometry height="50" width="260" x="1630" y="-1650" as="geometry" />
+        </mxCell>
+        <mxCell id="119" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sample plans, lab results, recommendations" vertex="1">
+          <mxGeometry height="60" width="380" x="1920" y="-1660" as="geometry" />
+        </mxCell>
+        <mxCell id="120" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Recommendations" vertex="1">
+          <mxGeometry height="50" width="260" x="1630" y="-1540" as="geometry" />
+        </mxCell>
+        <mxCell id="121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Suggested spray / fertilizer adjustment / drainage repair" vertex="1">
+          <mxGeometry height="60" width="520" x="1920" y="-1550" as="geometry" />
+        </mxCell>
+        <mxCell id="122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Issue Tracking" vertex="1">
+          <mxGeometry height="50" width="260" x="1630" y="-1430" as="geometry" />
+        </mxCell>
+        <mxCell id="123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assign corrective action → verify closure" vertex="1">
+          <mxGeometry height="60" width="400" x="1920" y="-1440" as="geometry" />
+        </mxCell>
+        <mxCell id="124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="350" x="1630" y="-1310" as="geometry" />
+        </mxCell>
+        <mxCell id="125" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors/GM&#xa;View risk dashboards" vertex="1">
+          <mxGeometry height="70" width="280" x="2010" y="-1320" as="geometry" />
+        </mxCell>
+        <mxCell id="126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager&#xa;Review + approve intervention actions" vertex="1">
+          <mxGeometry height="80" width="340" x="2310" y="-1330" as="geometry" />
+        </mxCell>
+        <mxCell id="127" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Superintendents/Field Officers&#xa;Create observations, assign actions" vertex="1">
+          <mxGeometry height="80" width="360" x="2010" y="-1230" as="geometry" />
+        </mxCell>
+        <mxCell id="128" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Spray/Weeding Teams&#xa;Receive tasks triggered by monitoring" vertex="1">
+          <mxGeometry height="80" width="360" x="2390" y="-1230" as="geometry" />
+        </mxCell>
+        <mxCell id="129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Labour&#xa;Task completion only" vertex="1">
+          <mxGeometry height="70" width="260" x="2010" y="-1130" as="geometry" />
+        </mxCell>
+        <mxCell id="130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1020" width="1330" x="1590" y="-1930" as="geometry" />
+        </mxCell>
+        <mxCell id="131" edge="1" parent="1" source="6" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" target="130" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1320" y="950" />
+              <mxPoint x="1330" y="-1520" />
+            </Array>
+            <mxPoint x="2450" y="620" as="sourcePoint" />
+            <mxPoint x="2500" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="132" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="Machinery" vertex="1">
+          <mxGeometry height="30" width="400" x="-85" y="-1550" as="geometry" />
+        </mxCell>
+        <mxCell id="133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: Asset register + allocation + maintenance + fuel + operator logs." vertex="1">
+          <mxGeometry height="60" width="980" x="-85" y="-1510" as="geometry" />
+        </mxCell>
+        <mxCell id="134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Asset Registry" vertex="1">
+          <mxGeometry height="50" width="260" x="-85" y="-1420" as="geometry" />
+        </mxCell>
+        <mxCell id="135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tractors, sprayers, excavators, vehicles, tools" vertex="1">
+          <mxGeometry height="60" width="420" x="205" y="-1430" as="geometry" />
+        </mxCell>
+        <mxCell id="136" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Allocation &amp; Scheduling" vertex="1">
+          <mxGeometry height="50" width="260" x="-85" y="-1320" as="geometry" />
+        </mxCell>
+        <mxCell id="137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assign machine to estate/division/task/date" vertex="1">
+          <mxGeometry height="60" width="420" x="205" y="-1330" as="geometry" />
+        </mxCell>
+        <mxCell id="138" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Work Logs" vertex="1">
+          <mxGeometry height="50" width="260" x="-85" y="-1220" as="geometry" />
+        </mxCell>
+        <mxCell id="139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Hours, distance, output (e.g., hectares sprayed)" vertex="1">
+          <mxGeometry height="60" width="440" x="205" y="-1230" as="geometry" />
+        </mxCell>
+        <mxCell id="140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Maintenance" vertex="1">
+          <mxGeometry height="50" width="260" x="-85" y="-1110" as="geometry" />
+        </mxCell>
+        <mxCell id="141" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Preventive schedule (service hours)" vertex="1">
+          <mxGeometry height="60" width="320" x="205" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Breakdown tickets" vertex="1">
+          <mxGeometry height="60" width="220" x="545" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="143" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Spare parts consumption" vertex="1">
+          <mxGeometry height="60" width="260" x="785" y="-1120" as="geometry" />
+        </mxCell>
+        <mxCell id="144" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Fuel Management" vertex="1">
+          <mxGeometry height="50" width="260" x="-85" y="-990" as="geometry" />
+        </mxCell>
+        <mxCell id="145" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fuel issue by machine + reconciliation" vertex="1">
+          <mxGeometry height="60" width="380" x="205" y="-1000" as="geometry" />
+        </mxCell>
+        <mxCell id="146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="360" x="-85" y="-870" as="geometry" />
+        </mxCell>
+        <mxCell id="147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors/GM&#xa;View CAPEX, utilization, high-level costs" vertex="1">
+          <mxGeometry height="80" width="360" x="305" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager&#xa;Approve allocations and repairs spend" vertex="1">
+          <mxGeometry height="80" width="360" x="685" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="149" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Superintendent&#xa;Request/plan machinery usage" vertex="1">
+          <mxGeometry height="70" width="300" x="305" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Mechanical Engineer/Workshop Officer&#xa;Full maintenance control" vertex="1">
+          <mxGeometry height="70" width="420" x="625" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="151" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Drivers/Operators&#xa;Daily log entry + pre-start checklist (mobile)" vertex="1">
+          <mxGeometry height="80" width="420" x="305" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Storekeeper&#xa;Spares issue + fuel issue (if store owns fuel)" vertex="1">
+          <mxGeometry height="80" width="340" x="745" y="-690" as="geometry" />
+        </mxCell>
+        <mxCell id="153" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1020" width="1330" x="-180" y="-1570" as="geometry" />
+        </mxCell>
+        <mxCell id="154" edge="1" parent="1" source="7" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;strokeWidth=3;" target="153" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="-815" />
+            </Array>
+            <mxPoint x="1330" y="-600" as="sourcePoint" />
+            <mxPoint x="1380" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="155" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="Forestry" vertex="1">
+          <mxGeometry height="30" width="400" x="-485" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="156" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: Shade tree management + timber + conservation + compliance zones." vertex="1">
+          <mxGeometry height="60" width="980" x="-485" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="157" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Tree Inventory" vertex="1">
+          <mxGeometry height="50" width="260" x="-485" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="158" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Shade tree species, density by field" vertex="1">
+          <mxGeometry height="60" width="360" x="-195" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Harvest/Pruning Permits" vertex="1">
+          <mxGeometry height="50" width="300" x="-485" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Permission workflow + legal docs (where needed)" vertex="1">
+          <mxGeometry height="60" width="460" x="-165" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Conservation Areas" vertex="1">
+          <mxGeometry height="50" width="260" x="-485" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buffer zones, reforestation blocks" vertex="1">
+          <mxGeometry height="60" width="340" x="-195" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Timber/Firewood Handling" vertex="1">
+          <mxGeometry height="50" width="300" x="-485" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="164" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stock, issue, sales (if applicable)" vertex="1">
+          <mxGeometry height="60" width="320" x="-165" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Erosion/Drainage Projects" vertex="1">
+          <mxGeometry height="50" width="300" x="-485" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="166" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bunds, drains, culverts (ties to Geo)" vertex="1">
+          <mxGeometry height="60" width="360" x="-165" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="167" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="360" x="-485" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="168" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors/GM&#xa;View compliance + timber revenue (if any)" vertex="1">
+          <mxGeometry height="80" width="380" x="-95" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager&#xa;Approve harvesting permits/projects" vertex="1">
+          <mxGeometry height="80" width="340" x="305" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="170" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Forestry Officer/Superintendent&#xa;Operate inventory, plans, execution logs" vertex="1">
+          <mxGeometry height="80" width="420" x="-95" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Labour&#xa;Assigned tasks only" vertex="1">
+          <mxGeometry height="80" width="300" x="345" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1020" width="1330" x="-585" y="-470" as="geometry" />
+        </mxCell>
+        <mxCell id="173" edge="1" parent="1" source="8" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" target="172" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1810" y="1090" />
+              <mxPoint x="890" y="1070" />
+              <mxPoint x="870" y="40" />
+            </Array>
+            <mxPoint x="1330" y="130" as="sourcePoint" />
+            <mxPoint x="1380" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="174" parent="1" style="text;html=1;fontSize=18;fontStyle=1;" value="Spraying / Weeding" vertex="1">
+          <mxGeometry height="30" width="500" x="2961" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Purpose: Chemical safety + spray program + weeding program + compliance." vertex="1">
+          <mxGeometry height="60" width="980" x="2961" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Spray Program" vertex="1">
+          <mxGeometry height="50" width="260" x="2961" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="177" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Target pest/weed, chemical, dose, frequency" vertex="1">
+          <mxGeometry height="60" width="380" x="3251" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="178" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Weeding Program" vertex="1">
+          <mxGeometry height="50" width="260" x="2961" y="-160" as="geometry" />
+        </mxCell>
+        <mxCell id="179" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Manual/mechanical/chemical weeding plans" vertex="1">
+          <mxGeometry height="60" width="380" x="3251" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="180" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Chemical Store" vertex="1">
+          <mxGeometry height="50" width="260" x="2961" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Receive, batch, expiry, MSDS, issue control" vertex="1">
+          <mxGeometry height="60" width="420" x="3251" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Application Capture" vertex="1">
+          <mxGeometry height="50" width="260" x="2961" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Field, area covered, mix rate, operator, PPE checklist" vertex="1">
+          <mxGeometry height="60" width="480" x="3251" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="184" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Safety &amp; Compliance" vertex="1">
+          <mxGeometry height="50" width="260" x="2961" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="185" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="REI/PHI tracking (re-entry interval, pre-harvest interval)" vertex="1">
+          <mxGeometry height="60" width="520" x="3251" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="No-spray zones (from Geo)" vertex="1">
+          <mxGeometry height="60" width="280" x="3791" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="187" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Incident reporting" vertex="1">
+          <mxGeometry height="60" width="260" x="3251" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;" value="Access &amp; Operation Roles" vertex="1">
+          <mxGeometry height="50" width="360" x="2961" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="189" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Directors/GM&#xa;View risk + compliance dashboards" vertex="1">
+          <mxGeometry height="80" width="340" x="3351" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="190" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Estate Manager&#xa;Approve spray programs + chemical requests" vertex="1">
+          <mxGeometry height="90" width="380" x="3711" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Superintendent/Spray Officer&#xa;Plan + supervise + verify" vertex="1">
+          <mxGeometry height="80" width="320" x="3351" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="192" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Chemical Storekeeper&#xa;Full chemical stock control" vertex="1">
+          <mxGeometry height="80" width="320" x="3691" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Spray Operators/Weed Teams&#xa;Task execution + checklist logging (mobile)" vertex="1">
+          <mxGeometry height="80" width="460" x="3351" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="194" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="1090" width="1330" x="2896" y="-420" as="geometry" />
+        </mxCell>
+        <mxCell id="195" edge="1" parent="1" source="10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=3;" target="194" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="2530" y="945" />
+              <mxPoint x="2530" y="-147" />
+            </Array>
+            <mxPoint x="2890" y="130" as="sourcePoint" />
+            <mxPoint x="2940" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

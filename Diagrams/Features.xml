@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.0">
+  <diagram name="Page-1" id="rjbP8V6dCgcT1ISJ4mCF">
+    <mxGraphModel dx="2775" dy="4363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="text;html=1;fontSize=16;fontStyle=1;" value="Organization" vertex="1">
+          <mxGeometry height="30" width="300" x="-10" y="-3060" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Organization → Company → Region → Estate → Division → Field/Block → Sub-block" vertex="1">
+          <mxGeometry height="60" width="900" x="-10" y="-3020" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="text;html=1;fontSize=16;fontStyle=1;" value="Crop" vertex="1">
+          <mxGeometry height="30" width="300" x="-10" y="-2930" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Crop → Crop Type → Variety/Clone → Age → Planting Cycle" vertex="1">
+          <mxGeometry height="60" width="900" x="-10" y="-2890" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="text;html=1;fontSize=16;fontStyle=1;" value="People" vertex="1">
+          <mxGeometry height="30" width="300" x="-10" y="-2800" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="People → Roles → Workforce" vertex="1">
+          <mxGeometry height="60" width="900" x="-10" y="-2760" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="text;html=1;fontSize=16;fontStyle=1;" value="Assets" vertex="1">
+          <mxGeometry height="30" width="300" x="-10" y="-2670" as="geometry" />
+        </mxCell>
+        <mxCell id="9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Assets → Machines/Vehicles/Tools → Maintenance History → Assignment" vertex="1">
+          <mxGeometry height="60" width="900" x="-10" y="-2630" as="geometry" />
+        </mxCell>
+        <mxCell id="10" parent="1" style="text;html=1;fontSize=16;fontStyle=1;" value="Stores" vertex="1">
+          <mxGeometry height="30" width="300" x="-10" y="-2540" as="geometry" />
+        </mxCell>
+        <mxCell id="11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Stores → Items → Batches → Locations → Issues/Returns" vertex="1">
+          <mxGeometry height="60" width="900" x="-10" y="-2500" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="text;html=1;fontSize=16;fontStyle=1;" value="Time" vertex="1">
+          <mxGeometry height="30" width="300" x="-10" y="-2410" as="geometry" />
+        </mxCell>
+        <mxCell id="13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Time → Daily Work Tickets → Attendance → Job-wise Cost" vertex="1">
+          <mxGeometry height="60" width="900" x="-10" y="-2370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
